@@ -1,0 +1,129 @@
+GIS data file contains the following records:
+
+     265   907565
+     420   938457
+     570   931888
+     689   887720
+     822   931700
+     950   930969
+    1074   907566
+    1200   920846
+    1331   912151
+    1498   930962
+    1622   887200
+    1762   900930
+    1898   890304
+    2016   888830
+    2175   892607
+    2338   934019
+    2462   907929
+    2627   930981
+    2750   932025
+    2869   898287
+    3037   931989
+    3160   885526
+    3288   929247
+    3404   931995
+    3526   893076
+    3648   896427
+    3764   907918
+    3906   930983
+    4030   901162
+    4174   930963
+    4298   891228
+    4421   930015
+    4540   929453
+    4698   929702
+    4864   893244
+    5023   913234
+    5159   888473
+    5284   891074
+    5420   890653
+    5545   900723
+    5677   923779
+    5829   931079
+    5952   934004
+    6080   923752
+    6222   908988
+    6352   900726
+    6472   931891
+    6591   914304
+    6727   930040
+    6846   901164
+    6971   897427
+    7135   938639
+    7262   896227
+    7421   890657
+    7532   890709
+    7652   931952
+    7774   932359
+    7914   913376
+    8043   933753
+    8183   894775
+    8321   902135
+    8412   901985
+    8517   937515
+    8627   902475
+    8732   902441
+    8836   902439
+    8948   902501
+    9042   902127
+    9148   916590
+    9239   901831
+    9348   937441
+    9465   902087
+    9562   901778
+    9659   937602
+
+1: show_latitude  	570
+   32d 49m 0s North
+2: show_elevation  	7421
+   3051
+3: show_longitude  	3906
+   104d 13m 6s West
+4: show_latitude  	6591
+   32d 24m 49s North
+5: show_name  	9148
+   Hobbs Highway Pit
+6: show_name  	9239
+   Hillcrest United Methodist Church
+7: show_name  	6080
+   Dutch Tank
+8: show_elevation  	6352
+   4167
+9: show_elevation  	16
+   Unaligned offset
+10: show_elevation  	2750
+   3343
+11: show_longitude  	7532
+   104d 16m 44s West
+12: show_longitude  	9659
+   Coordinate not given
+13: show_elevation  	822
+   3379
+14: show_latitude  	9659
+   Coordinate not given
+15: show_name  	-952
+   Offset not positive
+16: show_latitude  	10502
+   Offset too large
+17: show_latitude  	5284
+   32d 12m 11s North
+18: show_name  	8948
+   Restoration Church
+19: show_name  	3160
+   AAA Tank
+20: show_name  	2869
+   Chinaberry Draw
+21: show_elevation  	4421
+   3415
+22: show_name  	4174
+   10260 Water Well
+23: show_longitude  	265
+   104d 37m 33s West
+24: show_name  	5420
+   Kelly Polk Well
+25: show_name  	7262
+   Walnut Draw
+26: quit  	
+   Exiting
