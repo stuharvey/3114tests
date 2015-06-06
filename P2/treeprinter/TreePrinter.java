@@ -10,6 +10,8 @@ import java.io.OutputStream;
  * Binary tree printer
  * 
  * @author MightyPork
+ * @credit http://stackoverflow.com/a/29704252
+ * @modified github/stuharvey
  */
 public class TreePrinter
 {
